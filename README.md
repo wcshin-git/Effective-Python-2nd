@@ -1,5 +1,7 @@
 This is a repo summarizing Effective Python 2nd (파이썬 코딩의 기술 개정2판) in Korean.
 
+이 레포는 Effective Python 2nd (파이썬 코딩의 기술 개정2판)을 읽고 이해한 것을 기록한 레포입니다. 중간중간 더 깊은 이해를 위한 저의 코멘트가 삽입되어 있습니다.
+
 작성일자: 21.09.16
 
 # Contents
